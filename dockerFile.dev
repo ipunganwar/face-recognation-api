@@ -1,0 +1,14 @@
+FROM node:alpine
+
+RUN \
+  apk update && \
+  apk add git python make gcc g++
+
+ADD service.tar.gz /opt/welcome-screen-api
+WORKDIR /opt/welcome-screen-api
+
+RUN \
+  npm install
+
+EXPOSE 8100
+CMD ["node", "app.js"]

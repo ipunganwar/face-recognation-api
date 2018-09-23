@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "hale-silicon-211516",
+  "private_key_id": "763d8b529ec2537f2e77556678830cdb4c3e22d7",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDvWSUkuMTLLxUw\nHdOQq2sNodWriFooWDXtxAEKrIqqUTDmt9HtFU3w1y7pGjit4IIgJXKpgoxXI5Oj\nugSdCO0a8HSSrq5xOleFB+XLrb7qT9Nm24APvj8LPvoohGaToUTKW0oIDrXmQo8L\nIuFS2XeqYL8XcJKx07sl2dFX1PD6sFiF5wUejpxnJWjr6rwxKEWsJyXYOICFqpD/\nXJshHO8fcmBi0okyVVWJAXAn4rdMLTAsSKxd7NEoJXOASPUuc4nBj0Jh7ZApVrIY\n5UYG73N7AWT4Qkto/z8MMqJNdVDj2aXJVvJsuYoZmZdjBVTls840J4QKkgGJYwJA\nIcWqZe4vAgMBAAECggEAB0elgucWdTz1Xq/0OLjor1LLdkWAwywLrTOs+cTNuD3H\n8vyG/Lhif9TLryNbs04vfF18jf3+hBf87ESYJ1Ps155ArXAgC37ux95kSub59j5/\nUOg+45EHHIcfLLmk37tOpaj+fh2UbXB7e/yPmz7UuPCVtKzOiWzF4HIuP9xQ3WRj\nUvbBwXVwgo2fWw5cXBSO/rpr9EFAOBn3B2Ofgeo8A1922VMuyajkvQA/Lh/3Wtuy\nvjeUAr3XUfUndROgmYML9j9JjqjglhqhseR9uzOZqmRIj6q0vvIkHywgXHIxkYN2\n3A/cmOoA0Pqt51mGcn8EUzUDd18/GxTllumyb66aoQKBgQD7Rv3xXxovk7PkfBAO\nX5QNl8pzaZNFphW2Bn8Nw67QzoF3+B/fn6Arp7gu3ORgxbKOM6PR0Y2o2SbJxSkY\nT+JWg9s1hrrkDx6eFtA6V50Qyln9W52gw+oLTnxRebxpbdMKFDI8tKzILMWB2AyN\nAWdD/vypx+eXByKFOMvdiGGUZQKBgQDz2MHFdvQWLkSURl2UVVBbRlpMM8GYMgI3\ncAxxFaESH4VBs44sof0eKe+A3CQppA2w9yWuPgyy3ZMdix/Rl7hlP1dDvqGPS0sc\ngLA8LzyG6GX0i/TAsY4LVOIKi9Eh4/+1979sgDwjqUEid7IADhBqahQ/lV4RgkBm\n9qVb4i7dAwKBgQCsfGf3F1xHSnGTJyJya2ObDRY4sUEZ7085+y2eCjRnO0oeSyG+\nBLoTHXdOG+1dDHhsKsCKV/mQ7Tc2C/QQr01kK/D+xjRmNobC6FAZrGixzOWHCCuk\n3rc6+a5W02TlTjEu2vw9NZzhb/JIFkFPTaZQQ6m29fVgc9JbdshikqrBDQKBgF3I\nDnYYUrW5I6z3BwSGbzo7a30FJr6W9R1HHbHcRK9IqiJjoRlvT37rV+5yPAI70vwt\ngTNrL80WxH7HQ/yC4msmGjS2u0H2DjQvFhh/fkLQXG3Z6c62OtAG3Ex8C3mCS5U7\nbEaZZwe8D43nBPFad1vF4nW1x5DqTESNNXmKGsXrAoGBAMacF21VEP7rAcJvX6Ya\nfpJK3z1XhMvrK8alWYg8k6lYf4TVLq3TBk4b31AZoLb9xHTQdUB78jbNOIosKZj/\nkr1iD7RxEsdFri8Gd035v47nlVc/RHu9MBfqRJTFvrCEDVeQLNkLCojW1SRHPeVp\nkcXVwHUidU5tETE51NbIObLO\n-----END PRIVATE KEY-----\n",
+  "client_email": "pins-tts-demo@hale-silicon-211516.iam.gserviceaccount.com",
+  "client_id": "109335547482645599538",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/pins-tts-demo%40hale-silicon-211516.iam.gserviceaccount.com"
+}
